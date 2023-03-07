@@ -1,0 +1,1 @@
+set(SOURCE_LIB "${SOURCE_LIB}" "${CMAKE_CURRENT_SOURCE_DIR}/sparskit_wrapper.cpp" PARENT_SCOPE)
